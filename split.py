@@ -7,7 +7,6 @@ def split(str1,separator,maxsplit):
         while (str1[j] != separator):
             j += 1
             if(j == len(str1)):
-            #    list1.append(str1[i:]);
                 break;
         str2 = str1[i:j]
         list1.append(str2)
