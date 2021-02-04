@@ -5,4 +5,4 @@ def zfill(str11,num):
         return str2
     return str11
 
-print(zfill("thig mnjhuuuuuuuu",10))
+print(zfill("this iss",10))
